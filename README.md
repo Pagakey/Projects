@@ -85,8 +85,6 @@ This repository showcases key projects developed during my Computer Science stud
 2. Parser
 3. Intermediate Code Generator
 
-**Achievement:** All three phases received "flawless" evaluation from Teaching Assistants
-
 
 ## Technical Highlights
 - Strong focus on performance optimization and time complexity
