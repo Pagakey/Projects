@@ -3,6 +3,32 @@
 ## Overview
 This repository showcases key projects developed during my Computer Science studies at the University of Crete, demonstrating my progression in software development, systems programming, and theoretical computer science concepts.
 
+## Technical Skills
+### Programming Languages
+- **Primary:** C, C++, Java
+- **Secondary:** Python, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Assembly:** RISC
+
+### Core Competencies
+- Data Structures & Algorithms
+- Operating Systems
+- Backend Development
+- Compiler Design
+- Parallel Programming
+- Process Management
+
+### Mathematics & Theory
+- Discrete Mathematics
+- Applied Mathematics
+- Logic
+- Probability Theory
+
+### Tools & Environments
+- Version Control: Git
+- Operating Systems: Linux/Windows
+- Development Tools: Various IDEs and debugging tools
+
 ## Projects
 
 ### Streaming Service Simulation
@@ -11,7 +37,7 @@ This repository showcases key projects developed during my Computer Science stud
 1. Basic Version
    - Utilized fundamental data structures (single and double linked lists)
    - Implemented core streaming service functionality
-   - Features: user registration/unregistration, movie management
+   - Features: user registration/unregistration, movie management and more
    
 2. Advanced Version
    - Enhanced with binary search trees and leaf-oriented BSTs
@@ -20,7 +46,7 @@ This repository showcases key projects developed during my Computer Science stud
      - Movie distribution across categories
      - Intelligent movie suggestion system
      - Filtered search functionality
-     - Watch/consume movie tracking
+     - Watch/consume movie tracking and more
 
 ### Stratego Board Game
 **Technologies:** Java  
@@ -51,7 +77,7 @@ This repository showcases key projects developed during my Computer Science stud
 - Multiple concurrent student threads management
 
 ### Compiler Construction Project
-**Technologies:** [Relevant technologies used]  
+**Technologies:** YACC/BISON, C  
 **Project Scope:** Three-phase compiler implementation for the "Alpha" programming language  
 **Team Size:** 2 members  
 **Components:**
@@ -60,6 +86,7 @@ This repository showcases key projects developed during my Computer Science stud
 3. Intermediate Code Generator
 
 **Achievement:** All three phases received "flawless" evaluation from Teaching Assistants
+
 
 ## Technical Highlights
 - Strong focus on performance optimization and time complexity
