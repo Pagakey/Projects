@@ -8,7 +8,7 @@ This repository showcases key projects developed during my Computer Science stud
 - **Primary:** C, C++, Java
 - **Secondary:** Python, JavaScript
 - **Web Technologies:** HTML, CSS
-- **Assembly:** RISC
+- **Assembly:** RISC-V
 
 ### Core Competencies
 - Data Structures & Algorithms
