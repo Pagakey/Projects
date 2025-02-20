@@ -1,7 +1,7 @@
 # Academic Projects Portfolio
 
 ## Overview
-This repository showcases key projects developed during my Computer Science studies at the University of Crete, demonstrating my progression in software development, systems programming, and theoretical computer science concepts.
+This repository showcases key projects developed during my Computer Science studies at the University of Crete, demonstrating my progression in software/hardware development, systems programming, and theoretical computer science concepts.
 
 ## Technical Skills
 ### Programming Languages
