@@ -17,17 +17,21 @@ This repository showcases key projects developed during my Computer Science stud
 - Compiler Design
 - Parallel Programming
 - Process Management
+- Computer Architecture
 
 ### Mathematics & Theory
 - Discrete Mathematics
 - Applied Mathematics
 - Logic
 - Probability Theory
+- Linear Algebra
 
 ### Tools & Environments
 - Version Control: Git
 - Operating Systems: Linux/Windows
 - Development Tools: Various IDEs and debugging tools
+- Wireshark, Ghidra, Burp Suite, Cyberchef etc...
+
 
 ## Projects
 
