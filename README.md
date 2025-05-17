@@ -64,8 +64,7 @@ This repository showcases key projects developed during my Computer Science stud
 3. Intermediate Code Generator
 4. Target Code Generation
 5. Virtual Machine Implementation
-
-*Note: Perfect score achieved for the first three phases; final two phases in progress.*
+*Note: Perfect score achieved
 
 ### Streaming Service Simulation (Data Structures Project)
 **Technologies:** C, Data Structures  
