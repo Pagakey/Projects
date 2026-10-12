@@ -58,6 +58,10 @@ This repository showcases key projects developed during my Computer Science stud
 - Robust string handling
 - Core shell functionality implementation
 
+**Demo:** a terminal session in the shell: listing files, a three-stage pipe, variable assignment and expansion, output redirection, and chaining commands with `;`.
+
+<img src="demos/linux-shell/shell-session.png" alt="hy345sh session" width="700">
+
 ### Multi-threaded Transportation System
 **Technologies:** C, POSIX Threads  
 **Key Features:**
@@ -67,6 +71,18 @@ This repository showcases key projects developed during my Computer Science stud
   - Semaphores
 - Time-based scheduling system
 - Multiple concurrent student threads management
+
+**Demo:** an 8-student run. Students (threads) queue at the stop, the bus enforces per-department seat quotas, students study for a random time and then ride back home.
+
+<img src="demos/bus-simulation/bus-start.png" alt="Bus simulation start" width="700">
+
+<details><summary>More from the same run</summary>
+
+<img src="demos/bus-simulation/bus-midrun.png" alt="Students studying and waiting at STOP_B" width="700">
+
+<img src="demos/bus-simulation/bus-end.png" alt="All students home" width="700">
+
+</details>
 
 ### Compiler Construction Project
 **Technologies:** YACC/BISON, C  
@@ -97,6 +113,20 @@ This repository showcases key projects developed during my Computer Science stud
      - Filtered search functionality
      - Watch/consume movie tracking and more
     
+**Demo:** both phases run on the same small event file of 3 users and 7 movies ([Phase A input](demos/streaming-service/phase-a-events.txt), [Phase B input](demos/streaming-service/phase-b-events.txt)).
+
+Phase A distributes new movies into per-category lists, records watch history, runs a filtered search and removes a movie:
+
+<img src="demos/streaming-service/streaming-a.png" alt="Streaming Service Phase A" width="700">
+
+<details><summary>Phase B: hash table of users, category BSTs, leaf-oriented history trees, ratings and filtered search</summary>
+
+<img src="demos/streaming-service/streaming-b-distribute-watch.png" alt="Phase B distribute and watch" width="700">
+
+<img src="demos/streaming-service/streaming-b-stats-filter.png" alt="Phase B stats and filter" width="700">
+
+</details>
+
 ### Mini-Internet Network Engineering Project
 **Technologies:** Open vSwitch, FRRouting, OSPF, BGP, VLANs, Python, TCP/IP Sockets  
 **Team Size:** 2 members  
@@ -162,6 +192,24 @@ This repository showcases key projects developed during my Computer Science stud
   - Turn-based gameplay with validation
   - Special abilities for pieces (Slayer, Scout, Bombs/Flags etc.)
   - Win condition detection and endgame handling
+
+**Demo:**
+
+<img src="demos/stratego/stratego-board.png" alt="Stratego board at game start" width="700">
+
+<details><summary>Menu, selecting a piece, and a battle</summary>
+
+<img src="demos/stratego/stratego-menu.png" alt="Start menu" width="700">
+
+Selecting a piece highlights it. After each move the board hides the current player's pieces and reveals the opponent's for their turn:
+
+<img src="demos/stratego/stratego-select.png" alt="Blue Yeti selected" width="700">
+
+Blue's Yeti (5) attacks Red's Mage (9) and loses:
+
+<img src="demos/stratego/stratego-battle.png" alt="Battle result, Red's turn" width="700">
+
+</details>
 
 ## Technical Highlights
 - Strong focus on performance optimization and time complexity
