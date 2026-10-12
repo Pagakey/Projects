@@ -5,8 +5,8 @@ This repository showcases key projects developed during my Computer Science stud
 
 ## Technical Skills
 ### Programming Languages
-- **Primary:** C, C++, Java
-- **Secondary:** Python, JavaScript, Kotlin
+- **Primary:** C, Python
+- **Secondary:** C++, Java, JavaScript, Kotlin
 - **Web Technologies:** HTML, CSS
 - **Assembly:** RISC-V
 
@@ -16,21 +16,13 @@ This repository showcases key projects developed during my Computer Science stud
 - Operating Systems
 - Backend Development
 - Compiler Design
-- Parallel Programming
 - Process Management
 - Computer Architecture
 
-### Mathematics & Theory
-- Discrete Mathematics
-- Applied Mathematics
-- Logic
-- Probability Theory
-- Linear Algebra
-
 ### Tools & Environments
 - Version Control: Git
-- Operating Systems: Linux/Windows
-- Development Tools: Various IDEs and debugging tools
+- Operating Systems: Linux/Windows/MacOS
+- Development Tools: Various IDEs (VSC, JetBrains, SimplicityStudio 5-6) and debugging tools (RTT, Beyond Compare)
 - Wireshark, Ghidra, Burp Suite, Cyberchef etc...
 
 
