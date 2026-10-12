@@ -1,12 +1,12 @@
 # Academic Projects Portfolio
 
 ## Overview
-This repository showcases key projects developed during my Computer Science studies at the University of Crete, demonstrating my progression in software/hardware development, systems programming, and theoretical computer science concepts.
+This repository showcases key projects developed during my Computer Science studies at the University of Crete, along with personal projects, demonstrating my progression in software/hardware development, systems programming, and theoretical computer science concepts.
 
 ## Technical Skills
 ### Programming Languages
 - **Primary:** C, C++, Java
-- **Secondary:** Python, JavaScript
+- **Secondary:** Python, JavaScript, Kotlin
 - **Web Technologies:** HTML, CSS
 - **Assembly:** RISC-V
 
@@ -35,6 +35,20 @@ This repository showcases key projects developed during my Computer Science stud
 
 
 ## Projects
+
+### Samsung Calendar Clone (Android App)
+**Technologies:** Kotlin, Jetpack Compose, Material 3, Android Calendar Provider, Glance (home-screen widgets)  
+**Repository:** [Pagakey/SamsungCalendarClone](https://github.com/Pagakey/SamsungCalendarClone)  
+**Key Features:**
+- Native Android calendar recreating the look and interaction patterns of Samsung Calendar, with original code and assets
+- Month, week, day and agenda views sharing one selected date and calendar filters, with smooth month swiping
+- Reads and writes the phone's own calendars, so Google and on-device calendars appear side by side
+- Create, edit and delete events, including repeating events (this event, this and following, or all events)
+- Search across titles, places, notes and guests
+- Reminder controls and optional in-app reminder notifications
+- Agenda and month home-screen widgets
+- Restores the open month, event and unsaved edits after Android closes the app in the background
+- Tested on a physical Xiaomi phone (HyperOS, Android 16)
 
 ### Linux Shell Implementation
 **Technologies:** C, Linux System Calls  
