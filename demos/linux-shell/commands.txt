@@ -1,0 +1,7 @@
+ls
+echo hello from hy345sh
+cat fruits.txt | grep an | wc -l
+NAME=world
+echo hi $NAME
+sort -r fruits.txt > sorted.txt ; cat sorted.txt
+exit
