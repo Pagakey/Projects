@@ -1,3 +1,7 @@
+cd hy345/csd5061_Assignment1
+ls
+gcc -o hy345sh main.c
+./hy345sh
 ls
 echo hello from hy345sh
 cat fruits.txt | grep an | wc -l

@@ -6,9 +6,11 @@ All inputs are small made-up samples, included next to the images:
 
 | Project | Input |
 |---|---|
-| Linux shell | [commands.txt](linux-shell/commands.txt), run in a folder with one `fruits.txt` file |
+| Linux shell | [commands.txt](linux-shell/commands.txt), run in a folder with `main.c` and one `fruits.txt` file |
 | Bus simulation | `8` students, typed at the prompt |
 | Streaming Service | [phase-a-events.txt](streaming-service/phase-a-events.txt), [phase-b-events.txt](streaming-service/phase-b-events.txt) |
 | Stratego | A few clicks: Play, move Blue's Yeti forward, move Red's Mage up, attack |
+
+The shell and bus simulation images use real output from the University of Crete CSD server `mango`, run over SSH from the assignment folders in `~/hy345`. Only the terminal window styling is added, and the server's login banner is left out.
 
 Excerpts marked `...` skip the start or middle of a long run.
